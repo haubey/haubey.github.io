@@ -8,13 +8,9 @@
           Haubey
         </a>
       </{% if page.layout == "index" %}h1{% else %}div{% endif %}>
-      <p id="subtitle" class="lead">Doing this on the cheap</p>
+      <p id="subtitle" class="lead"></p>
     </header>
     {% include sidebar-nav-links.html %}
-  
-    {% if site.version %}
-      <span class="site-version">Currently v{{ site.version }}</span>
-    {% endif %}
   
     {% include sidebar-icon-links.html %}
   </div>
@@ -26,7 +22,5 @@
     function random(num) {
       return Math.floor(Math.random()*num);
     }
-    document.addEventListener('load', function() {
-      document.getElementById('subtitle').innerText = subtitles[random(subtitles.length)];
-    });
+    document.getElementById('subtitle').innerHTML = subtitles[random(subtitles.length)];
   </script>
