@@ -1,3 +1,6 @@
 theme: jekyll-theme-hydeout
 remote_theme: fongandrew/hydeout
-paginate: 1
+paginate: 5
+permalink: /:categories/:slug/
+plugins:
+  - jekyll-redirect-from
