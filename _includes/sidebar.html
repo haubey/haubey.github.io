@@ -23,5 +23,8 @@
     function random(num) {
       return Math.floor(Math.random()*num);
     }
-    document.getElementById('subtitle').innerHTML = subtitles[random(subtitles.length)];
+    var subtitle = (location.pathname === "/" || location.pathname === "/comics/")
+       ? subtitles[subtitles.length -1] 
+       : subtitles[random(subtitles.length)];
+    document.getElementById('subtitle').innerHTML = subtitle;
   </script>

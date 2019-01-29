@@ -11,7 +11,7 @@
 
   <title>
     
-      haubey.github.io
+      Haubey
     
   </title>
 
@@ -65,6 +65,10 @@
   
 
   
+    
+  
+
+  
 
   
 
@@ -88,6 +92,13 @@
   
 
   
+    
+  
+
+  
+    
+      <a class="category-link "
+          href="/music/">Music</a>
     
   
 
@@ -143,7 +154,10 @@
     function random(num) {
       return Math.floor(Math.random()*num);
     }
-    document.getElementById('subtitle').innerHTML = subtitles[random(subtitles.length)];
+    var subtitle = (location.pathname === "/" || location.pathname === "/comics/")
+       ? subtitles[subtitles.length -1] 
+       : subtitles[random(subtitles.length)];
+    document.getElementById('subtitle').innerHTML = subtitle;
   </script>
 
     <main class="container">
@@ -153,6 +167,77 @@
 
   
 
+  
+  <article class="post-body">
+    <h2 class="post-title">
+      <a href="/music/january-2019-music/">
+        January 2019 Music
+      </a>
+    </h2>
+    <div class="post-meta">
+  <span class="post-date">28 Jan 2019</span>
+  <span class="post-categories">
+    
+      &bull;
+
+      
+      
+      
+
+      
+        <a href="/music/">
+          Music
+        </a>
+      
+    
+  </span>
+</div>
+
+
+    
+      <p>In no particular order:</p>
+<ul>
+  <li>Adult Mom</li>
+  <li>Yowler</li>
+  <li>Lala Lala</li>
+  <li>Computer Magic</li>
+  <li>Anna Burch</li>
+  <li>Molly Burch (unrelated) (this was in particular order)</li>
+  <li>Frank Thomas</li>
+  <li>Frankie Cosmos</li>
+  <li>Japanese Breakfast</li>
+  <li>Diet Cig</li>
+  <li>Sidney Gish</li>
+  <li>gobbinjr</li>
+  <li>Sports Boyfriend</li>
+  <li>Ratboys</li>
+  <li>Snail Mail</li>
+  <li>Soccer Mommy</li>
+  <li>Car Seat Headrest</li>
+  <li>1 Trait Danger</li>
+  <li>Lucy Dacus</li>
+  <li>Phoebe Bridgers</li>
+  <li>Julien Baker</li>
+  <li>Kississippi (Combo breaker)</li>
+  <li>boygenius</li>
+  <li>Palehound</li>
+  <li>Barrie</li>
+  <li>Major Murphy</li>
+  <li>Daddy Issues</li>
+  <li>The Black on White Affair</li>
+  <li>girl in red</li>
+</ul>
+
+    
+
+    
+      
+      
+      
+
+      
+    
+  </article>
   
   <article class="post-body">
     <h2 class="post-title">
