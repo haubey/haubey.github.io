@@ -1,7 +1,0 @@
-theme: jekyll-theme-hydeout
-remote_theme: fongandrew/hydeout
-title: Haubey
-paginate: 5
-permalink: /:categories/:slug/
-plugins:
-  - jekyll-redirect-from
