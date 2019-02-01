@@ -16,17 +16,18 @@
   </div>
   <script>
     subtitles = [
-      'Doing this on the cheap',
-      'Only twelve years too late',
-      'Now with less functionality',
+      'Bake at 350&deg; for 30 minutes, then serve with a nice Chianti',
+      'Relentlessly on brand',
       'A chicken in every pot, and a new tagline every day.',
-      'Relentlessly on brand'
+      'Now with less functionality',
+      'Only twelve years too late',
+      'Doing this on the cheap'
     ]
     function random(num) {
       return Math.floor(Math.random()*num);
     }
     var subtitle = (location.pathname === "/" || location.pathname === "/comics/")
-       ? subtitles[subtitles.length -1] 
+       ? subtitles[0] 
        : subtitles[random(subtitles.length)];
     document.getElementById('subtitle').innerHTML = subtitle;
   </script>
