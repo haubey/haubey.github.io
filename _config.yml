@@ -17,6 +17,7 @@ plugins:
   - jekyll-paginate
   - jekyll-redirect-from
 permalink: /:categories/:slug/
+google_analytics: UA-133759331-1
 
 # Sidebar link settings
 # sidebar_home_link:  true
