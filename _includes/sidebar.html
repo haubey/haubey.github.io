@@ -16,12 +16,13 @@
   </div>
   <script>
     subtitles = [
-      'Bake at 350&deg; for 30 minutes, then serve with a nice Chianti',
-      'Relentlessly on brand',
-      'A chicken in every pot, and a new tagline every day.',
-      'Now with less functionality',
-      'Only twelve years too late',
-      'Doing this on the cheap'
+        {date: '2019-02-03', tag: 'My heart says Rams but my betslip says Pats -2, Gladys Knight will take more than 110 seconds'},
+        {date: '2019-02-01', tag: 'Bake at 350&deg; for 30 minutes, then serve with a nice Chianti'},
+        {date: '2019-01-31', tag: 'Relentlessly on brand'},
+        {date: '2019-01-30', tag: 'A chicken in every pot, and a new tagline every day.'},
+        {date: '2019-01-29', tag: 'Now with less functionality'},
+        {date: '2019-01-28', tag: 'Only twelve years too late'},
+        {date: '2019-01-27', tag: 'Doing this on the cheap'}
     ]
     function random(num) {
       return Math.floor(Math.random()*num);
@@ -29,5 +30,5 @@
     var subtitle = (location.pathname === "/" || location.pathname === "/comics/")
        ? subtitles[0] 
        : subtitles[random(subtitles.length)];
-    document.getElementById('subtitle').innerHTML = subtitle;
+    document.getElementById('subtitle').innerHTML = subtitle.tag;
   </script>
