@@ -16,19 +16,27 @@
   </div>
   <script>
     subtitles = [
-        {date: '2019-02-03', tag: 'My heart says Rams but my betslip says Pats -2, Gladys Knight will take more than 110 seconds'},
-        {date: '2019-02-01', tag: 'Bake at 350&deg; for 30 minutes, then serve with a nice Chianti'},
-        {date: '2019-01-31', tag: 'Relentlessly on brand'},
-        {date: '2019-01-30', tag: 'A chicken in every pot, and a new tagline every day.'},
-        {date: '2019-01-29', tag: 'Now with less functionality'},
-        {date: '2019-01-28', tag: 'Only twelve years too late'},
-        {date: '2019-01-27', tag: 'Doing this on the cheap'}
+        {date '2019-02-04', timeSensitive: false, tag: 'We must not allow a mine shaft gap'},
+        {date: '2019-02-03', timeSensitive: true, tag: 'My heart says Rams but my betslip says Pats -2, Gladys Knight will take more than 110 seconds'},
+        {date: '2019-02-01', timeSensitive: false, tag: 'Bake at 350&deg; for 30 minutes, then serve with a nice Chianti'},
+        {date: '2019-01-31', timeSensitive: false, tag: 'Relentlessly on brand'},
+        {date: '2019-01-30', timeSensitive: false, tag: 'A chicken in every pot, and a new tagline every day.'},
+        {date: '2019-01-29', timeSensitive: false, tag: 'Now with less functionality'},
+        {date: '2019-01-28', timeSensitive: false, tag: 'Only twelve years too late'},
+        {date: '2019-01-27', timeSensitive: false, tag: 'Doing this on the cheap'}
     ]
     function random(num) {
       return Math.floor(Math.random()*num);
     }
+    function getSubtitle() {
+        var subtitle = subtitles[random(subtitles.length)]
+        if (subtitle.timeSensitive) {
+            return getSubtitle();
+        }
+        return subtitle;
+    }
     var subtitle = (location.pathname === "/" || location.pathname === "/comics/")
        ? subtitles[0] 
-       : subtitles[random(subtitles.length)];
+       : getSubtitle();
     document.getElementById('subtitle').innerHTML = subtitle.tag;
   </script>
