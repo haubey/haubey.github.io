@@ -1,4 +1,5 @@
 const subtitles = [
+    {date: '2019-03-07', timeSensitive: false, tag: 'This is still happening?'},
     {date: '2019-03-06', timeSensitive: false, tag: 'Oh God, the existential dread is kicking in'},
     {date: '2019-03-05', timeSensitive: true, tag: 'These are turning into legitimate ads for Visual Studio and I don\'t know how I feel about that.'},
     {date: '2019-03-04', timeSensitive: false, tag: 'No matter how hard I try, I will never be as good at social media as a 13 year old who just got their first cellphone right now.'},
