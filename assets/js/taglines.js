@@ -1,4 +1,5 @@
 const subtitles = [
+    {date: '2019-03-09', timeSensitive: false, tag: 'There\'s an XKCD for this'},
     {date: '2019-03-08', timeSensitive: false, tag: 'Loading...'},
     {date: '2019-03-07', timeSensitive: false, tag: 'This is still happening?'},
     {date: '2019-03-06', timeSensitive: false, tag: 'Oh God, the existential dread is kicking in'},
