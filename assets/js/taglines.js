@@ -1,6 +1,13 @@
 const subtitles = [
-    {date: '2019-03-15', timeSensitive: false, tag: '<a href-"https://getyarn.io/yarn-clip/69bd925c-0ddd-4092-b3f4-68b602412dd5">Perfectly executed Chewbacca sounds</a>'},
+    {date: '2019-03-17', timeSensitive: false, tag: 'Extremely cold take.'},
+    {date: '2019-03-17', timeSensitive: true, tag: 'Per tradition, I spent the whole day watching the DCOM "The Luck of the Irish"'},
+    {date: '2019-03-16', timeSensitive: false, tag: 'Licensed. Bonded. Insured.'},
+    {date: '2019-03-15', timeSensitive: false, tag: '<a href="https://getyarn.io/yarn-clip/69bd925c-0ddd-4092-b3f4-68b602412dd5">Perfectly executed Chewbacca sounds</a>'},
+    
+    
     {date: '2019-03-14', timeSensitive: false, tag: 'ȳ̷͖͋̐̓̽͆́̀͐̚ő̸̖̄̈́̒̓̏͘͘u̷̮͉̤̥̫̔̋̽̂̕͝ȓ̷̪̖̬̦̫̮̼̳̌͂͒̚͜ ̴̖̻̫̙̹̖̦͑̈̍̔̈́̍̽̌s̶̛̠̗͔̤̻͖̠͈͉̥̔̀̏͒̈́͠c̶̱̘̘̱̦̤̺͊̈̎̓́̚͝r̶̟̟̫̫̻̰͚̒́ͅę̴̹͖̥̞̣̗̜̤̪̏͂̔͒̎͗͆̄̕͝e̸̬̜͕͚͑̄͊͌̈́̕͠n̶̡̪͇̟̫̖̗̰̖̭͒̇̆̓̔̂ ̸̢̣̻͙͇̟̤͎̞̓̀̊̽̽̂̓̂ͅi̵̧̢͔͙̲̩͓̱̺͋̂̂̈́̋̉͑͊͜ͅs̴̛͇̹͎̈̽̓̂͐͒̉͠͝ ̵̮̩͔͔̮̏͛͌̿b̵̢̨̻͇̮̖̱̗͇͈̋̿r̷̨̮͉̜͙̲̱͖̆̑̏̃ͅo̶̢̨̻̝̻̖̪̞̖̩͌̌̓͆͂́̄͛̅k̶̢͎̉̂̕͝e̵̼̭̿̓͌͛̀̓͘̕͜͝͝ń̵̨̤̦͓̳̘͎̣͖͕̒̑́̓̑̎ͅ',},
+    
+    
     {date: '2019-03-13', timeSensitive: false, tag: 'At the tone, it will be March 13th.'},
     {date: '2019-03-12', timeSensitive: false, tag: 'How \'bout that weather, huh?'},
     {date: '2019-03-11', timeSensitive: false, tag: 'In theaters now.'},
