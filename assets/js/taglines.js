@@ -1,5 +1,6 @@
 const subtitles = [
-    {date: '2019-03-17', timeSensitive: false, tag: 'Extremely cold take.'},
+    {date: '2019-03-19', timeSensitive: false, tag: 'Was that your phone or mine?'},
+    {date: '2019-03-18', timeSensitive: false, tag: 'Extremely cold take.'},
     {date: '2019-03-17', timeSensitive: true, tag: 'Per tradition, I spent the whole day watching the DCOM "The Luck of the Irish"'},
     {date: '2019-03-16', timeSensitive: false, tag: 'Licensed. Bonded. Insured.'},
     {date: '2019-03-15', timeSensitive: false, tag: '<a href="https://getyarn.io/yarn-clip/69bd925c-0ddd-4092-b3f4-68b602412dd5">Perfectly executed Chewbacca sounds</a>'},
