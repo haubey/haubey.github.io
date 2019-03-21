@@ -1,4 +1,6 @@
 const subtitles = [
+    {date: '2019-03-21', timeSensitive: true, tag: 'I\'m getting mad'},
+    {date: '2019-03-20', timeSensitive: false, tag: '<a href="http://lucydacus.com/" target="_blank">I don\'t wanna be funny anymore</a>'},
     {date: '2019-03-19', timeSensitive: false, tag: 'Was that your phone or mine?'},
     {date: '2019-03-18', timeSensitive: false, tag: 'Extremely cold take.'},
     {date: '2019-03-17', timeSensitive: true, tag: 'Per tradition, I spent the whole day watching the DCOM "The Luck of the Irish"'},
