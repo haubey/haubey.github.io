@@ -1,4 +1,6 @@
 const subtitles = [
+    {date: '2019-03-25', timeSensitive: false, tag: 'Psh-yeah'},
+    {date: '2019-03-24', timeSensitive: false, tag: '<a href="https://twitter.com/RexChapman/status/1108844817654734848" target="_blank">One shining moment</a>'},
     {date: '2019-03-23', timeSensitive: false, tag: 'Hey.'},
     {date: '2019-03-22', timeSensitive: true, tag: 'Everything is busted. Thanks for nothing, Old Dominion.'},
     {date: '2019-03-21', timeSensitive: true, tag: 'I\'m getting mad'},
