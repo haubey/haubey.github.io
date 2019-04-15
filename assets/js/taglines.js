@@ -3,7 +3,7 @@ const subtitles = [
     {date: '2019-04-14', timeSensitive: false, tag: 'South Florida sports apologist'},
     {date: '2019-04-13', timeSensitive: false, tag: 'Most of this could be replaced by following Adhoc on Facebook'},
     {date: '2019-04-12', timeSensitive: false, tag: 'I\'m friends with the band'},
-    {date: '2019-04-11', timeSensitive: false, tag: 'The refreshing taste of inescapable paranoia'},
+    {date: '2019-04-11', timeSensitive: false, tag: 'The refreshing taste of inescapable terror'},
     {date: '2019-04-10', timeSensitive: false, tag: 'Aaaaaaahhhhhhh'},
     {date: '2019-04-09', timeSensitive: true, tag: 'So they both explode for 80 points are you kidding me?'},
     {date: '2019-04-08', timeSensitive: true, tag: 'Under 118 lock of the century'},
