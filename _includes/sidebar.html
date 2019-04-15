@@ -18,15 +18,29 @@
     function random(num) {
       return Math.floor(Math.random()*num);
     }
+
     function getSubtitle() {
         var subtitle = subtitles[random(subtitles.length)]
-        if (subtitle.timeSensitive) {
+        var pubTime = Date.parse(subtitle.date);
+        if (subtitle.timeSensitive || pubTime > Date.now()) {
             return getSubtitle();
         }
         return subtitle;
     }
-    var subtitle = (location.pathname === "/" || location.pathname === "/comics/")
-       ? subtitles[0] 
+
+    function getMostRecentSubtitle() {
+      for(var i = 0; i < subtitles.length; i++) {
+        var subtitle = subtitles[i];
+        var pubTime = Date.parse(subtitle.date);
+        if (Date.now() > pubTime) {
+          return subtitle;
+        }
+      }
+      return subtitles[subtitle.length - 1];
+    }
+
+    var subtitle = (location.pathname === "/")
+       ? getMostRecentSubtitle()
        : getSubtitle();
     document.getElementById('subtitle').innerHTML = subtitle.tag;
   </script>
