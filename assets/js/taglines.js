@@ -1,4 +1,7 @@
 const subtitles = [
+    {date: '2019-04-19', timeSensitive: false, tag: 'Hello from the future'},
+    {date: '2019-04-18', timeSensitive: false, tag: 'First they\'re sour, then they\'re more sour'},
+    {date: '2019-04-17', timeSensitive: false, tag: 'Safe for work'},
     {date: '2019-04-16', timeSensitive: true, tag: 'I threw a complete game shut out at corporate softball today and I just need people to know that.'},
     {date: '2019-04-15', timeSensitive: false, tag: 'A face for radio and a voice for print'},
     {date: '2019-04-14', timeSensitive: false, tag: 'South Florida sports apologist'},
