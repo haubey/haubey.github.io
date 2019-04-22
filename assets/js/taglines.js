@@ -1,6 +1,6 @@
 const subtitles = [
     {date: '2019-04-23', timeSensitive: true, tag: 'My roommate ate bread in front of me and now I\'m sad'},
-    {date: '2019-04-22', timeSensitive: false, tag: '<a href="https://www.honeyblood.co.uk/" target="_blank">Time is against us\Circumstance likes to dick around</a>'},
+    {date: '2019-04-22', timeSensitive: false, tag: '<a href="https://www.honeyblood.co.uk/" target="_blank">Time is against us \\ Circumstance likes to dick around</a>'},
     {date: '2019-04-21', timeSensitive: false, tag: 'Professional Straphanger'},
     {date: '2019-04-20', timeSensitive: false, tag: 'lol'},
     {date: '2019-04-19', timeSensitive: false, tag: 'Hello from the future'},
