@@ -49,7 +49,7 @@ const subtitles = [
     s('2019-06-11', false, "Turn on battery saver mode"),
     s('2019-06-10', false, "404 tagline not found"),
     s('2019-06-09', false, "This is why we can't have nice things"),
-    s('2019-06-08', false, "<a href='https://frankiecosmosband.com/' target='_blank>I'm 20, washed up already</a>"),
+    s('2019-06-08', false, "<a href='https://frankiecosmosband.com/' target='_blank'>I'm 20, washed up already</a>"),
     s('2019-06-07', false, "Perfectly executed segue"),
     s('2019-06-06', false, "Papa's got a brand new L.L. Bean backpack"),
     s('2019-06-05', false, "I remember when this was all under water"),
