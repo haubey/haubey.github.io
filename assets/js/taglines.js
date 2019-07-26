@@ -3,6 +3,7 @@ function s(date, timeSensitive, tag) {
 }
 
 const subtitles = [
+    s('2019-07-26', false, "I was up early today"),
     s('2019-07-25', false, "You fools! You've fallen right into my trap"),
     s('2019-07-24', false, "Thanks for your patience"),
     s('2019-07-23', false, "Cool it, planet Earth"),
