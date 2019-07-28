@@ -3,10 +3,12 @@ function s(date, timeSensitive, tag) {
 }
 
 const subtitles = [
+    s('2019-07-28', false, "Silence of the Adult Sheep"),
+    s('2019-07-27', false, "We're sorry, the tagline you are trying to reach has been disconnected. Goodbye."),
     s('2019-07-26', false, "I was up early today"),
     s('2019-07-25', false, "You fools! You've fallen right into my trap"),
     s('2019-07-24', false, "Thanks for your patience"),
-    s('2019-07-23', false, "Cool it, planet Earth"),
+    s('2019-07-23', false, "Cool it, Planet Earth"),
     s('2019-07-22', false, "Could be better"),
     s('2019-07-21', false, "The wheels on the bus don't move because traffic's bad, traffic's bad, traffic's bad"),
     s('2019-07-20', true, "It's so hot. Milk was a bad choice"),
