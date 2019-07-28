@@ -71,15 +71,8 @@
 
   
     
-  
-
-  
-    
-  
-
-  
-
-  
+      <a class="page-link "
+          href="/comedy/">Comedy</a>
     
   
 
@@ -92,6 +85,20 @@
   
 
   
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
     
   
 
@@ -110,12 +117,18 @@
   
 
   
+
+  
     
   
 
 
   
 
+
+  
+    
+  
 
   
     
@@ -158,6 +171,8 @@
 
   
     
+  
+
   
 
   
@@ -233,15 +248,29 @@
     function random(num) {
       return Math.floor(Math.random()*num);
     }
+
     function getSubtitle() {
         var subtitle = subtitles[random(subtitles.length)]
-        if (subtitle.timeSensitive) {
+        var pubTime = Date.parse(subtitle.date);
+        if (subtitle.timeSensitive || pubTime > Date.now()) {
             return getSubtitle();
         }
         return subtitle;
     }
-    var subtitle = (location.pathname === "/" || location.pathname === "/comics/")
-       ? subtitles[0] 
+
+    function getMostRecentSubtitle() {
+      for(var i = 0; i < subtitles.length; i++) {
+        var subtitle = subtitles[i];
+        var pubTime = Date.parse(subtitle.date);
+        if (Date.now() > pubTime) {
+          return subtitle;
+        }
+      }
+      return subtitles[subtitle.length - 1];
+    }
+
+    var subtitle = (location.pathname === "/")
+       ? getMostRecentSubtitle()
        : getSubtitle();
     document.getElementById('subtitle').innerHTML = subtitle.tag;
   </script>
@@ -254,6 +283,46 @@
 
   
 
+  
+  <article class="post-body">
+    <h2 class="post-title">
+      <a href="/comics/the-adventures-of-vs-guy-5/">
+        The Adventures of Visual Studio Guy #5
+      </a>
+    </h2>
+    <div class="post-meta">
+  <span class="post-date">07 Mar 2019</span>
+  <span class="post-categories">
+    
+      &bull;
+
+      
+      
+      
+
+      
+        <a href="/comics/">
+          Comics
+        </a>
+      
+    
+  </span>
+</div>
+
+
+    
+      <p><img src="/comic_imgs/visual_studio_guy_5.png" alt="Visual Studio Guy" title="This isn't Dinosaur Comics, I swear." /></p>
+
+    
+
+    
+      
+      
+      
+
+      
+    
+  </article>
   
   <article class="post-body">
     <h2 class="post-title">
@@ -497,46 +566,6 @@
   <li>The Black on White Affair</li>
   <li>girl in red</li>
 </ul>
-
-    
-
-    
-      
-      
-      
-
-      
-    
-  </article>
-  
-  <article class="post-body">
-    <h2 class="post-title">
-      <a href="/comics/dot-net-framework/">
-        The Adventures of Visual Studio Guy #3
-      </a>
-    </h2>
-    <div class="post-meta">
-  <span class="post-date">27 Jan 2019</span>
-  <span class="post-categories">
-    
-      &bull;
-
-      
-      
-      
-
-      
-        <a href="/comics/">
-          Comics
-        </a>
-      
-    
-  </span>
-</div>
-
-
-    
-      <p><img src="/comic_imgs/visual_studio_guy_3.png" alt="Visual Studio Guy" title="Visual Studio. It's badass." /></p>
 
     
 
