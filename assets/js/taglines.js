@@ -3,6 +3,7 @@ function s(date, timeSensitive, tag) {
 }
 
 const subtitles = [
+    s('2019-07-29', true, "This sucks."),
     s('2019-07-28', false, "Silence of the Adult Sheep"),
     s('2019-07-27', false, "We're sorry, the tagline you are trying to reach has been disconnected. Goodbye."),
     s('2019-07-26', false, "I was up early today"),
