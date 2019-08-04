@@ -3,6 +3,8 @@ function s(date, timeSensitive, tag) {
 }
 
 const subtitles = [
+    s('2019-08-04', true, "I should have came in third"),
+    s('2019-08-03', false, "We'll see how it goes"),
     s('2019-08-02', false, "At the tone, it will be the tone"),
     s('2019-08-01', false, "Achoo"),
     s('2019-07-31', false, "<a href='https://www.snailmail.band/' target='_blank'>You're always coming back a little older, but it looks alright on you</a>"),
