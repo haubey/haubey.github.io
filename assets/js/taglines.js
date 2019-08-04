@@ -8,7 +8,7 @@ const subtitles = [
     s('2019-08-02', false, "At the tone, it will be the tone"),
     s('2019-08-01', false, "Achoo"),
     s('2019-07-31', false, "<a href='https://www.snailmail.band/' target='_blank'>You're always coming back a little older, but it looks alright on you</a>"),
-    s('2019-07-30', true, "The debate is on CNN, but it's at the Fox theater?????",
+    s('2019-07-30', true, "The debate is on CNN, but it's at the Fox theater?????"),
     s('2019-07-29', true, "This sucks."),
     s('2019-07-28', false, "Silence of the Adult Sheep"),
     s('2019-07-27', false, "We're sorry, the tagline you are trying to reach has been disconnected. Goodbye."),
