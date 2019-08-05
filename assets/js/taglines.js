@@ -3,6 +3,7 @@ function s(date, timeSensitive, tag) {
 }
 
 const subtitles = [
+    s('2019-08-05', false, "I was voted most likely to succeed in high school, so I do this now"),
     s('2019-08-04', true, "I should have came in third"),
     s('2019-08-03', false, "We'll see how it goes"),
     s('2019-08-02', false, "At the tone, it will be the tone"),
