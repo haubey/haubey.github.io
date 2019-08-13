@@ -3,6 +3,15 @@ function s(date, timeSensitive, tag) {
 }
 
 const subtitles = [
+    s('2019-08-14', false, "Yee-haw"),
+    s('2019-08-13', false, "Laundry night"),
+    s('2019-08-12', false, "I am the truest repairman!"),
+    s('2019-08-11', false, "Space available for rent"),
+    s('2019-08-10', false, "Coming this Summer"),
+    s('2019-08-09', false, "Grrr"),
+    s('2019-08-08', false, "Survey says"),
+    s('2019-08-07', false, "This whole site is written in LaTex"),
+    s('2019-08-06', false, "Updates required to view this tagline"),
     s('2019-08-05', false, "I was voted most likely to succeed in high school, so I do this now"),
     s('2019-08-04', true, "I should have came in third"),
     s('2019-08-03', false, "We'll see how it goes"),
@@ -21,7 +30,7 @@ const subtitles = [
     s('2019-07-21', false, "The wheels on the bus don't move because traffic's bad, traffic's bad, traffic's bad"),
     s('2019-07-20', true, "It's so hot. Milk was a bad choice"),
     s('2019-07-19', false, "<a href='https://sportsboyfriend.bandcamp.com/' target='_blank'>I only leave my house to dance with you</a>"),
-    s('2019-07-18', false, "They call it long island but it's just the width that's long"),
+    s('2019-07-18', false, "They call it Long Island but it's just the width that's long"),
     s('2019-07-17', false, "Large order up yours truly sorry"),
     s('2019-07-16', false, "Gross"),
     s('2019-07-15', false, "Boxer-briefcase"),
