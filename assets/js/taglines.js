@@ -3,6 +3,9 @@ function s(date, timeSensitive, tag) {
 }
 
 const subtitles = [
+    s('2019-08-17', false, "Pork chop sandwhiches!"),
+    s('2019-08-16', false, "It's pronounced How-ben-stock"),
+    s('2019-08-15', false, "Card carrying credit card carrier"),
     s('2019-08-14', false, "Yee-haw"),
     s('2019-08-13', false, "Laundry night"),
     s('2019-08-12', false, "I am the truest repairman!"),
