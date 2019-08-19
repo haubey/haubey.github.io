@@ -302,7 +302,7 @@ body { color: rgba(255, 255, 255, 0.75); background-color: #202020; background-i
 /* ----------------------------------------------------------- Mobile view for home page)
 ----------------------------------------------------------- */
 .home #sidebar { text-align: center; }
-.home #sidebar .site-title { font-size: 3.25rem; }
+.home #sidebar .site-title { font-size: 2.4rem; }
 .home #sidebar header ~ *, .home #sidebar p.lead { display: block; }
 .home #sidebar header ~ nav { display: flex; }
 .home #sidebar > *:last-child { margin-bottom: 0.5rem; }
@@ -314,7 +314,7 @@ body { color: rgba(255, 255, 255, 0.75); background-color: #202020; background-i
   /* Undo mobile CSS */
   #sidebar, .home #sidebar { width: 18rem; text-align: left; }
   #sidebar > *:last-child, .home #sidebar > *:last-child { margin-bottom: 0; }
-  #sidebar .site-title { font-size: 3.25rem; }
+  #sidebar .site-title { font-size: 2.4rem; }
   #sidebar .site-title .back-arrow { display: none; }
   #sidebar p.lead, #sidebar header ~ * { display: block; }
   #sidebar p.lead { font-size: 1.25rem; }
