@@ -3,6 +3,7 @@ function s(date, timeSensitive, tag) {
 }
 
 const subtitles = [
+    s('2019-08-19', false, "<a href='http://sidneygishnj.com/' target='_blank'>Unfortunately, I am \\ My own dog, my own fur companion</a>"),
     s('2019-08-18', false, "Sorry, running a bit late today"),
     s('2019-08-17', false, "Pork chop sandwhiches!"),
     s('2019-08-16', false, "It's pronounced How-ben-stock"),
