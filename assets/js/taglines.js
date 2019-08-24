@@ -3,7 +3,8 @@ function s(date, timeSensitive, tag) {
 }
 
 const subtitles = [
-    s('2019-08-23', true, "Gone to Carolina in mind. And also physically."),
+    s('2019-08-24', false, "Leave the cannoli, take the gun"),
+    s('2019-08-23', true, "Gone to Carolina in mind. Also physically."),
     s('2019-08-22', false, "This is from August 22nd, 2019"),
     s('2019-08-21', false, "Clear skies, full bars, can't lose"),
     s('2019-08-20', false, "*Insert Woddy Page Chalkboard Here*"),
