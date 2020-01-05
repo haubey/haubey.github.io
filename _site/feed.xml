@@ -1,4 +1,205 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-08-20T01:30:28-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Max Haubenstock</title><subtitle>A blog of things</subtitle><author><name>Max Haubenstock</name></author><entry><title type="html">The Adventures of Visual Studio Guy #6</title><link href="http://localhost:4000/comics/the-adventures-of-vs-guy-6/" rel="alternate" type="text/html" title="The Adventures of Visual Studio Guy #6" /><published>2019-08-20T00:00:00-04:00</published><updated>2019-08-20T00:00:00-04:00</updated><id>http://localhost:4000/comics/the-adventures-of-vs-guy-6</id><content type="html" xml:base="http://localhost:4000/comics/the-adventures-of-vs-guy-6/">&lt;p&gt;&lt;img src=&quot;/comic_imgs/visual_studio_guy_6.png&quot; alt=&quot;Visual Studio Guy&quot; title=&quot;I told you guys I was leaving...&quot; /&gt;&lt;/p&gt;</content><author><name>Max Haubenstock</name></author><summary type="html"></summary></entry><entry><title type="html">July 2019 Music</title><link href="http://localhost:4000/music/july-2019-music/" rel="alternate" type="text/html" title="July 2019 Music" /><published>2019-08-02T00:00:00-04:00</published><updated>2019-08-02T00:00:00-04:00</updated><id>http://localhost:4000/music/july-2019-music</id><content type="html" xml:base="http://localhost:4000/music/july-2019-music/">&lt;p&gt;In Last.fm scrobbling order (min: 3 scrobbles):&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-01-05T17:18:00-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Max Haubenstock</title><subtitle>A blog of things</subtitle><author><name>Max Haubenstock</name></author><entry><title type="html">December 2019 Music</title><link href="http://localhost:4000/music/december-2019-music/" rel="alternate" type="text/html" title="December 2019 Music" /><published>2020-01-02T00:00:00-05:00</published><updated>2020-01-02T00:00:00-05:00</updated><id>http://localhost:4000/music/december-2019-music</id><content type="html" xml:base="http://localhost:4000/music/december-2019-music/">&lt;p&gt;In Last.fm scrobbling order (min: 3 scrobbles):&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Lomelda (seen)&lt;/li&gt;
+  &lt;li&gt;Courtney Barnett&lt;/li&gt;
+  &lt;li&gt;Lucy Dacus (seen)&lt;/li&gt;
+  &lt;li&gt;Haley Heyndreckx (seen)&lt;/li&gt;
+  &lt;li&gt;Pom Pom Squad (seen)&lt;/li&gt;
+  &lt;li&gt;Soccer Mommy&lt;/li&gt;
+  &lt;li&gt;Remember Sports&lt;/li&gt;
+  &lt;li&gt;Anna Burch&lt;/li&gt;
+  &lt;li&gt;Adult Mom&lt;/li&gt;
+  &lt;li&gt;Hinds
+&lt;!--more--&gt;&lt;/li&gt;
+  &lt;li&gt;Hovvdy&lt;/li&gt;
+  &lt;li&gt;Julia Jacklin&lt;/li&gt;
+  &lt;li&gt;Lexie&lt;/li&gt;
+  &lt;li&gt;Black Belt Eagle Scout&lt;/li&gt;
+  &lt;li&gt;Sidney Gish&lt;/li&gt;
+  &lt;li&gt;Car Seat Headrest&lt;/li&gt;
+  &lt;li&gt;Illuminati Hotties&lt;/li&gt;
+  &lt;li&gt;Parquet Courts&lt;/li&gt;
+  &lt;li&gt;Speedy Ortiz&lt;/li&gt;
+  &lt;li&gt;Big Theif&lt;/li&gt;
+  &lt;li&gt;Hop Along&lt;/li&gt;
+  &lt;li&gt;Julien Baker&lt;/li&gt;
+  &lt;li&gt;Snail Mail&lt;/li&gt;
+  &lt;li&gt;Japanese Breakfast&lt;/li&gt;
+  &lt;li&gt;Kurt Vile&lt;/li&gt;
+  &lt;li&gt;Mustard Service&lt;/li&gt;
+  &lt;li&gt;Stella Donnelly&lt;/li&gt;
+  &lt;li&gt;The Beths&lt;/li&gt;
+  &lt;li&gt;Frankie Cosmos&lt;/li&gt;
+  &lt;li&gt;Petite League&lt;/li&gt;
+  &lt;li&gt;Thick&lt;/li&gt;
+  &lt;li&gt;Vampire Weekend&lt;/li&gt;
+  &lt;li&gt;Alvvays&lt;/li&gt;
+  &lt;li&gt;Boytoy&lt;/li&gt;
+  &lt;li&gt;Diet Cig&lt;/li&gt;
+  &lt;li&gt;La Luz&lt;/li&gt;
+  &lt;li&gt;Mitski&lt;/li&gt;
+  &lt;li&gt;Sasami&lt;/li&gt;
+  &lt;li&gt;Shana Cleveland&lt;/li&gt;
+  &lt;li&gt;Sports Boyfriend&lt;/li&gt;
+  &lt;li&gt;Why Bonnie&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Max Haubenstock</name></author><summary type="html">In Last.fm scrobbling order (min: 3 scrobbles): Lomelda (seen) Courtney Barnett Lucy Dacus (seen) Haley Heyndreckx (seen) Pom Pom Squad (seen) Soccer Mommy Remember Sports Anna Burch Adult Mom Hinds</summary></entry><entry><title type="html">November 2019 Music</title><link href="http://localhost:4000/music/november-2019-music/" rel="alternate" type="text/html" title="November 2019 Music" /><published>2019-12-02T00:00:00-05:00</published><updated>2019-12-02T00:00:00-05:00</updated><id>http://localhost:4000/music/november-2019-music</id><content type="html" xml:base="http://localhost:4000/music/november-2019-music/">&lt;p&gt;In Last.fm scrobbling order (min: 3 scrobbles):&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The Beths&lt;/li&gt;
+  &lt;li&gt;Bad Bad Hats&lt;/li&gt;
+  &lt;li&gt;Boytoy&lt;/li&gt;
+  &lt;li&gt;Molly Burch&lt;/li&gt;
+  &lt;li&gt;Lucy Dacus&lt;/li&gt;
+  &lt;li&gt;Car Seat Headrest&lt;/li&gt;
+  &lt;li&gt;Black Belt Eagle Scout&lt;/li&gt;
+  &lt;li&gt;Illuminati Hotties&lt;/li&gt;
+  &lt;li&gt;Remember Sports&lt;/li&gt;
+  &lt;li&gt;Soccer Mommy
+&lt;!--more--&gt;&lt;/li&gt;
+  &lt;li&gt;Frankie Cosmos&lt;/li&gt;
+  &lt;li&gt;Petite League&lt;/li&gt;
+  &lt;li&gt;Vampire Weekend&lt;/li&gt;
+  &lt;li&gt;Adult Mom&lt;/li&gt;
+  &lt;li&gt;Japanese Breakfast&lt;/li&gt;
+  &lt;li&gt;Julia Jacklin&lt;/li&gt;
+  &lt;li&gt;La Luz&lt;/li&gt;
+  &lt;li&gt;Courtney Barnett&lt;/li&gt;
+  &lt;li&gt;Hinds&lt;/li&gt;
+  &lt;li&gt;Anna Burch&lt;/li&gt;
+  &lt;li&gt;Julien Baker&lt;/li&gt;
+  &lt;li&gt;Mustard Service&lt;/li&gt;
+  &lt;li&gt;Desert Sharks&lt;/li&gt;
+  &lt;li&gt;Jay Som&lt;/li&gt;
+  &lt;li&gt;Sasami&lt;/li&gt;
+  &lt;li&gt;Sidney Gish&lt;/li&gt;
+  &lt;li&gt;Stella DOnnelly&lt;/li&gt;
+  &lt;li&gt;AC/DC&lt;/li&gt;
+  &lt;li&gt;Faye Webster&lt;/li&gt;
+  &lt;li&gt;Hop Along&lt;/li&gt;
+  &lt;li&gt;Lorde&lt;/li&gt;
+  &lt;li&gt;Ratboys&lt;/li&gt;
+  &lt;li&gt;Slothrust&lt;/li&gt;
+  &lt;li&gt;Snail Mail&lt;/li&gt;
+  &lt;li&gt;Sylvan Esso&lt;/li&gt;
+  &lt;li&gt;Why Bonnie&lt;/li&gt;
+  &lt;li&gt;Cheekface&lt;/li&gt;
+  &lt;li&gt;Gobbinjr&lt;/li&gt;
+  &lt;li&gt;Good Morning&lt;/li&gt;
+  &lt;li&gt;Kurt Vile&lt;/li&gt;
+  &lt;li&gt;Sports Boyfriend&lt;/li&gt;
+  &lt;li&gt;The Temptations&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Max Haubenstock</name></author><summary type="html">In Last.fm scrobbling order (min: 3 scrobbles): The Beths Bad Bad Hats Boytoy Molly Burch Lucy Dacus Car Seat Headrest Black Belt Eagle Scout Illuminati Hotties Remember Sports Soccer Mommy</summary></entry><entry><title type="html">October 2019 Music</title><link href="http://localhost:4000/music/october-2019-music/" rel="alternate" type="text/html" title="October 2019 Music" /><published>2019-11-02T00:00:00-04:00</published><updated>2019-11-02T00:00:00-04:00</updated><id>http://localhost:4000/music/october-2019-music</id><content type="html" xml:base="http://localhost:4000/music/october-2019-music/">&lt;p&gt;In Last.fm scrobbling order (min: 3 scrobbles):&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Hinds (seen)&lt;/li&gt;
+  &lt;li&gt;Illuminati Hotties&lt;/li&gt;
+  &lt;li&gt;Jay Som&lt;/li&gt;
+  &lt;li&gt;Lucy Dacus&lt;/li&gt;
+  &lt;li&gt;Black Belt Eagle Scout&lt;/li&gt;
+  &lt;li&gt;Mannequin Pussy&lt;/li&gt;
+  &lt;li&gt;Vampire Weekend&lt;/li&gt;
+  &lt;li&gt;Stella Donnelly&lt;/li&gt;
+  &lt;li&gt;Boy Scouts&lt;/li&gt;
+  &lt;li&gt;atlas engine
+&lt;!--more--&gt;&lt;/li&gt;
+  &lt;li&gt;Sleater-Kinney&lt;/li&gt;
+  &lt;li&gt;Bodega&lt;/li&gt;
+  &lt;li&gt;Slothrust&lt;/li&gt;
+  &lt;li&gt;Frankie Cosmos&lt;/li&gt;
+  &lt;li&gt;Car Seat Headrest&lt;/li&gt;
+  &lt;li&gt;Faye Webster&lt;/li&gt;
+  &lt;li&gt;Vulfpeck&lt;/li&gt;
+  &lt;li&gt;A. Savage&lt;/li&gt;
+  &lt;li&gt;Charly Bliss&lt;/li&gt;
+  &lt;li&gt;Great Grandpa&lt;/li&gt;
+  &lt;li&gt;Julia Jacklin&lt;/li&gt;
+  &lt;li&gt;Lala Lala&lt;/li&gt;
+  &lt;li&gt;Angel Olsen&lt;/li&gt;
+  &lt;li&gt;Anna Burch&lt;/li&gt;
+  &lt;li&gt;Big Theif&lt;/li&gt;
+  &lt;li&gt;Broken Social Scene&lt;/li&gt;
+  &lt;li&gt;Cataldo&lt;/li&gt;
+  &lt;li&gt;Cleaners From Venus&lt;/li&gt;
+  &lt;li&gt;Gold Celeste&lt;/li&gt;
+  &lt;li&gt;HAIM&lt;/li&gt;
+  &lt;li&gt;Julien Baker&lt;/li&gt;
+  &lt;li&gt;Kurt Vile&lt;/li&gt;
+  &lt;li&gt;Ratboys&lt;/li&gt;
+  &lt;li&gt;Sasami&lt;/li&gt;
+  &lt;li&gt;Snail Mail&lt;/li&gt;
+  &lt;li&gt;Soccer Mommy&lt;/li&gt;
+  &lt;li&gt;Stef Chura&lt;/li&gt;
+  &lt;li&gt;Valley Maker&lt;/li&gt;
+  &lt;li&gt;Why Bonnie&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Max Haubenstock</name></author><summary type="html">In Last.fm scrobbling order (min: 3 scrobbles): Hinds (seen) Illuminati Hotties Jay Som Lucy Dacus Black Belt Eagle Scout Mannequin Pussy Vampire Weekend Stella Donnelly Boy Scouts atlas engine</summary></entry><entry><title type="html">September 2019 Music</title><link href="http://localhost:4000/music/september-2019-music/" rel="alternate" type="text/html" title="September 2019 Music" /><published>2019-10-02T00:00:00-04:00</published><updated>2019-10-02T00:00:00-04:00</updated><id>http://localhost:4000/music/september-2019-music</id><content type="html" xml:base="http://localhost:4000/music/september-2019-music/">&lt;p&gt;In Last.fm scrobbling order (min: 3 scrobbles):&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Black Belt Eagle Scout&lt;/li&gt;
+  &lt;li&gt;Vulfpeck&lt;/li&gt;
+  &lt;li&gt;Lucy Dacus&lt;/li&gt;
+  &lt;li&gt;Frankie Cosmos&lt;/li&gt;
+  &lt;li&gt;The Beths&lt;/li&gt;
+  &lt;li&gt;Rosie Tucker&lt;/li&gt;
+  &lt;li&gt;Car Seat Headrest&lt;/li&gt;
+  &lt;li&gt;Mitski&lt;/li&gt;
+  &lt;li&gt;Illuminati Hotties&lt;/li&gt;
+  &lt;li&gt;Pom Pom Squad&lt;/li&gt;
+  &lt;li&gt;Julia Jacklin&lt;/li&gt;
+  &lt;li&gt;Soccer Mommmy&lt;/li&gt;
+  &lt;li&gt;Diet Cig&lt;/li&gt;
+  &lt;li&gt;Hatchie&lt;/li&gt;
+  &lt;li&gt;Jay Som&lt;/li&gt;
+  &lt;li&gt;Julien Baker&lt;/li&gt;
+  &lt;li&gt;Sasami&lt;/li&gt;
+  &lt;li&gt;Snail Mail&lt;/li&gt;
+  &lt;li&gt;Japanese Breakfast&lt;/li&gt;
+  &lt;li&gt;Lala Lala&lt;/li&gt;
+  &lt;li&gt;Stella Donnelly&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Max Haubenstock</name></author><summary type="html">In Last.fm scrobbling order (min: 3 scrobbles): Black Belt Eagle Scout Vulfpeck Lucy Dacus Frankie Cosmos The Beths Rosie Tucker Car Seat Headrest Mitski Illuminati Hotties Pom Pom Squad Julia Jacklin Soccer Mommmy Diet Cig Hatchie Jay Som Julien Baker Sasami Snail Mail Japanese Breakfast Lala Lala Stella Donnelly</summary></entry><entry><title type="html">August 2019 Music</title><link href="http://localhost:4000/music/august-2019-music-copy/" rel="alternate" type="text/html" title="August 2019 Music" /><published>2019-09-02T00:00:00-04:00</published><updated>2019-09-02T00:00:00-04:00</updated><id>http://localhost:4000/music/august-2019-music%20copy</id><content type="html" xml:base="http://localhost:4000/music/august-2019-music-copy/">&lt;p&gt;In Last.fm scrobbling order (min: 3 scrobbles):&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Jay Som (seen)&lt;/li&gt;
+  &lt;li&gt;Sir Babygirl&lt;/li&gt;
+  &lt;li&gt;Car Seat Headrest&lt;/li&gt;
+  &lt;li&gt;Sidney Gish&lt;/li&gt;
+  &lt;li&gt;Stella Donnelly&lt;/li&gt;
+  &lt;li&gt;Faye Webster&lt;/li&gt;
+  &lt;li&gt;Amber Arcades&lt;/li&gt;
+  &lt;li&gt;Lucy Dacus&lt;/li&gt;
+  &lt;li&gt;Lala Lala&lt;/li&gt;
+  &lt;li&gt;lunar vacation&lt;/li&gt;
+  &lt;li&gt;Snail Mail
+&lt;!--more--&gt;&lt;/li&gt;
+  &lt;li&gt;Julia Jacklin&lt;/li&gt;
+  &lt;li&gt;Ratboys&lt;/li&gt;
+  &lt;li&gt;Remember Sports&lt;/li&gt;
+  &lt;li&gt;Anna Burch&lt;/li&gt;
+  &lt;li&gt;Girlpool&lt;/li&gt;
+  &lt;li&gt;Hand Habits&lt;/li&gt;
+  &lt;li&gt;Palehound&lt;/li&gt;
+  &lt;li&gt;Stef Chura&lt;/li&gt;
+  &lt;li&gt;Miya Folick&lt;/li&gt;
+  &lt;li&gt;U.S. Girls&lt;/li&gt;
+  &lt;li&gt;Big Theif&lt;/li&gt;
+  &lt;li&gt;Frankie Cosmos&lt;/li&gt;
+  &lt;li&gt;Mannequin Pussy&lt;/li&gt;
+  &lt;li&gt;Charly Bliss&lt;/li&gt;
+  &lt;li&gt;Dehd&lt;/li&gt;
+  &lt;li&gt;Diet Cig&lt;/li&gt;
+  &lt;li&gt;Forth Wanderers&lt;/li&gt;
+  &lt;li&gt;Hinds&lt;/li&gt;
+  &lt;li&gt;Honeyblood&lt;/li&gt;
+  &lt;li&gt;Lomelds&lt;/li&gt;
+  &lt;li&gt;Omni&lt;/li&gt;
+  &lt;li&gt;Priests&lt;/li&gt;
+  &lt;li&gt;Sasami&lt;/li&gt;
+  &lt;li&gt;Soccer Mommy&lt;/li&gt;
+  &lt;li&gt;Let’s Eat Grandma&lt;/li&gt;
+  &lt;li&gt;Martha&lt;/li&gt;
+  &lt;li&gt;The Beths&lt;/li&gt;
+  &lt;li&gt;Weyes Blood&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Max Haubenstock</name></author><summary type="html">In Last.fm scrobbling order (min: 3 scrobbles): Jay Som (seen) Sir Babygirl Car Seat Headrest Sidney Gish Stella Donnelly Faye Webster Amber Arcades Lucy Dacus Lala Lala lunar vacation Snail Mail</summary></entry><entry><title type="html">The Adventures of Visual Studio Guy #6</title><link href="http://localhost:4000/comics/the-adventures-of-vs-guy-6/" rel="alternate" type="text/html" title="The Adventures of Visual Studio Guy #6" /><published>2019-08-20T00:00:00-04:00</published><updated>2019-08-20T00:00:00-04:00</updated><id>http://localhost:4000/comics/the-adventures-of-vs-guy-6</id><content type="html" xml:base="http://localhost:4000/comics/the-adventures-of-vs-guy-6/">&lt;p&gt;&lt;img src=&quot;/comic_imgs/visual_studio_guy_6.png&quot; alt=&quot;Visual Studio Guy&quot; title=&quot;I told you guys I was leaving...&quot; /&gt;&lt;/p&gt;</content><author><name>Max Haubenstock</name></author><summary type="html"></summary></entry><entry><title type="html">July 2019 Music</title><link href="http://localhost:4000/music/july-2019-music/" rel="alternate" type="text/html" title="July 2019 Music" /><published>2019-08-02T00:00:00-04:00</published><updated>2019-08-02T00:00:00-04:00</updated><id>http://localhost:4000/music/july-2019-music</id><content type="html" xml:base="http://localhost:4000/music/july-2019-music/">&lt;p&gt;In Last.fm scrobbling order (min: 3 scrobbles):&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Stef Chura&lt;/li&gt;
@@ -158,161 +359,4 @@
   &lt;li&gt;Phantastic Ferniture (Julia Jacklin’s former(?) band)&lt;/li&gt;
   &lt;li&gt;Suzie Wu&lt;/li&gt;
   &lt;li&gt;Vampire Weekend&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Max Haubenstock</name></author><summary type="html">In Last.fm scrobbling order (min: 3 scrobbles): Julia Jacklin (Crushing is still great) Shana Cleveland (Of La Luz) Remember Sports Ratboys Daisy the Great Better Oblivion Community Center Anna Burch (Quit the Curse is infinitely listenable) 1 Trait Danger (if you know, you know) Honeyblood Camp Cope</summary></entry><entry><title type="html">March 2019 Music</title><link href="http://localhost:4000/music/march-2019-music/" rel="alternate" type="text/html" title="March 2019 Music" /><published>2019-04-02T00:00:00-04:00</published><updated>2019-04-02T00:00:00-04:00</updated><id>http://localhost:4000/music/march-2019-music</id><content type="html" xml:base="http://localhost:4000/music/march-2019-music/">&lt;p&gt;In Last.fm scrobbling order (min: 3 scrobbles):&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Lucy Dacus&lt;/p&gt;
-
-    &lt;p&gt;Got to see her earlier this month!&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Remember Sports&lt;/p&gt;
-
-    &lt;p&gt;Seeing in April&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Stef Chura&lt;/li&gt;
-  &lt;li&gt;Girlpool&lt;/li&gt;
-  &lt;li&gt;Sidney Gish&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Vundabar&lt;/p&gt;
-
-    &lt;p&gt;Vundabar and Sidney Gish seen in March&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Julia Jacklin&lt;/li&gt;
-  &lt;li&gt;Stella Donnelly&lt;/li&gt;
-  &lt;li&gt;Lala Lala&lt;/li&gt;
-  &lt;li&gt;Let’s Eat Grandma
-&lt;!--more--&gt;&lt;/li&gt;
-  &lt;li&gt;Dehd&lt;/li&gt;
-  &lt;li&gt;Saintseneca&lt;/li&gt;
-  &lt;li&gt;Better Oblivion Community Center&lt;/li&gt;
-  &lt;li&gt;Hinds&lt;/li&gt;
-  &lt;li&gt;Car Seat Headrest&lt;/li&gt;
-  &lt;li&gt;Julien Baker&lt;/li&gt;
-  &lt;li&gt;Ratboys&lt;/li&gt;
-  &lt;li&gt;Frankie Cosmos&lt;/li&gt;
-  &lt;li&gt;Belle Skinner&lt;/li&gt;
-  &lt;li&gt;Hand Habits&lt;/li&gt;
-  &lt;li&gt;Pinc Louds&lt;/li&gt;
-  &lt;li&gt;Honeyblood&lt;/li&gt;
-  &lt;li&gt;Tizrah&lt;/li&gt;
-  &lt;li&gt;Adult Mom&lt;/li&gt;
-  &lt;li&gt;Forth Wanderers&lt;/li&gt;
-  &lt;li&gt;Future Generations&lt;/li&gt;
-  &lt;li&gt;Mustard Service&lt;/li&gt;
-  &lt;li&gt;Fenne Lily&lt;/li&gt;
-  &lt;li&gt;Sasami&lt;/li&gt;
-  &lt;li&gt;absinthe father&lt;/li&gt;
-  &lt;li&gt;Big Theif&lt;/li&gt;
-  &lt;li&gt;Contact Field Orchestra&lt;/li&gt;
-  &lt;li&gt;Diet Cig&lt;/li&gt;
-  &lt;li&gt;Nick Waterhouse&lt;/li&gt;
-  &lt;li&gt;Soccer Mommy&lt;/li&gt;
-  &lt;li&gt;The Beths&lt;/li&gt;
-  &lt;li&gt;Anna Burch&lt;/li&gt;
-  &lt;li&gt;Chastity Belt&lt;/li&gt;
-  &lt;li&gt;Courtney Barnett&lt;/li&gt;
-  &lt;li&gt;Daisy the Great&lt;/li&gt;
-  &lt;li&gt;Japanese Breakfast&lt;/li&gt;
-  &lt;li&gt;Lomeda&lt;/li&gt;
-  &lt;li&gt;Petite League&lt;/li&gt;
-  &lt;li&gt;Snail Fail&lt;/li&gt;
-  &lt;li&gt;Speedy Ortiz&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Max Haubenstock</name></author><summary type="html">In Last.fm scrobbling order (min: 3 scrobbles): Lucy Dacus Got to see her earlier this month! Remember Sports Seeing in April Stef Chura Girlpool Sidney Gish Vundabar Vundabar and Sidney Gish seen in March Julia Jacklin Stella Donnelly Lala Lala Let’s Eat Grandma</summary></entry><entry><title type="html">The Adventures of Visual Studio Guy #5</title><link href="http://localhost:4000/comics/the-adventures-of-vs-guy-5/" rel="alternate" type="text/html" title="The Adventures of Visual Studio Guy #5" /><published>2019-03-07T00:00:00-05:00</published><updated>2019-03-07T00:00:00-05:00</updated><id>http://localhost:4000/comics/the-adventures-of-vs-guy-5</id><content type="html" xml:base="http://localhost:4000/comics/the-adventures-of-vs-guy-5/">&lt;p&gt;&lt;img src=&quot;/comic_imgs/visual_studio_guy_5.png&quot; alt=&quot;Visual Studio Guy&quot; title=&quot;This isn't Dinosaur Comics, I swear.&quot; /&gt;&lt;/p&gt;</content><author><name>Max Haubenstock</name></author><summary type="html"></summary></entry><entry><title type="html">The Adventures of Visual Studio Guy #4</title><link href="http://localhost:4000/comics/the-adventures-of-vs-guy-4/" rel="alternate" type="text/html" title="The Adventures of Visual Studio Guy #4" /><published>2019-03-05T00:00:00-05:00</published><updated>2019-03-05T00:00:00-05:00</updated><id>http://localhost:4000/comics/the-adventures-of-vs-guy-4</id><content type="html" xml:base="http://localhost:4000/comics/the-adventures-of-vs-guy-4/">&lt;p&gt;&lt;img src=&quot;/comic_imgs/visual_studio_guy_4.png&quot; alt=&quot;Visual Studio Guy&quot; title=&quot;vim -&amp;gt; Sublime -&amp;gt; Atom -&amp;gt; VSCode -&amp;gt; ed&quot; /&gt;&lt;/p&gt;</content><author><name>Max Haubenstock</name></author><summary type="html"></summary></entry><entry><title type="html">February 2019 Music</title><link href="http://localhost:4000/music/february-2019-music/" rel="alternate" type="text/html" title="February 2019 Music" /><published>2019-03-03T00:00:00-05:00</published><updated>2019-03-03T00:00:00-05:00</updated><id>http://localhost:4000/music/february-2019-music</id><content type="html" xml:base="http://localhost:4000/music/february-2019-music/">&lt;p&gt;In Last.fm scrobbling order (min: 3 scrobbles):&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Car Seat Headrest&lt;/p&gt;
-
-    &lt;p&gt;Seen at Madison Square Garden, opened for Interpol&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Julia Jacklin&lt;/p&gt;
-
-    &lt;p&gt;The LP &lt;em&gt;Crushing&lt;/em&gt; is great. Favorite track: “Don’t Know How To Keep Loving You.” Seeing her in April&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Cherry Glazerr&lt;/p&gt;
-
-    &lt;p&gt;Seen at Mercury Lounge. Overheard at the concert: “It’s easier for me to be a T.A. now that we live in a post truth society”&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Sidney Gish&lt;/p&gt;
-
-    &lt;p&gt;Seen at Elswehere, opened for Vundabar&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Snail Mail&lt;/p&gt;
-
-    &lt;p&gt;Seen at Madison Square Garden, opened for CSH and Interpol&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Sinkane&lt;/li&gt;
-  &lt;li&gt;Priests&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Lucy Dacus&lt;/p&gt;
-
-    &lt;p&gt;Upcoming concert March 20th&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;squirrel flower&lt;/li&gt;
-  &lt;li&gt;Girlpool&lt;/li&gt;
-  &lt;li&gt;Illuminati Hotties&lt;/li&gt;
-  &lt;li&gt;Sharon Van Etten&lt;/li&gt;
-  &lt;li&gt;Why Bonnie&lt;/li&gt;
-  &lt;li&gt;Anna Burch&lt;/li&gt;
-  &lt;li&gt;Sports Boyfriend
-&lt;!--more--&gt;&lt;/li&gt;
-  &lt;li&gt;Barrie&lt;/li&gt;
-  &lt;li&gt;Camino 84&lt;/li&gt;
-  &lt;li&gt;Daddy Issues&lt;/li&gt;
-  &lt;li&gt;Frankie Cosmos&lt;/li&gt;
-  &lt;li&gt;Honeyblood&lt;/li&gt;
-  &lt;li&gt;Lala Lala&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Adult Mom&lt;/p&gt;
-
-    &lt;p&gt;Why am I always out of town when they’re playing New York?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Kississippi&lt;/li&gt;
-  &lt;li&gt;Mustard Service&lt;/li&gt;
-  &lt;li&gt;True Blue&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Better Oblivion Community Center&lt;/p&gt;
-
-    &lt;p&gt;I’m surprised this is so low on the list&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Colleen Green&lt;/li&gt;
-  &lt;li&gt;Japanese Breakfast&lt;/li&gt;
-  &lt;li&gt;Jay Som&lt;/li&gt;
-  &lt;li&gt;Julien Baker&lt;/li&gt;
-  &lt;li&gt;Let’s Eat Grandma&lt;/li&gt;
-  &lt;li&gt;Phoebe Bridgers&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Slothrust&lt;/p&gt;
-
-    &lt;p&gt;You’re the Worst, final season airing now on FX&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Forth Wanderers&lt;/li&gt;
-  &lt;li&gt;Haley Heynderickx&lt;/li&gt;
-  &lt;li&gt;ian sweet&lt;/li&gt;
-  &lt;li&gt;Natural Born Kissers&lt;/li&gt;
-  &lt;li&gt;Honey cutt&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Max Haubenstock</name></author><summary type="html">In Last.fm scrobbling order (min: 3 scrobbles): Car Seat Headrest Seen at Madison Square Garden, opened for Interpol Julia Jacklin The LP Crushing is great. Favorite track: “Don’t Know How To Keep Loving You.” Seeing her in April Cherry Glazerr Seen at Mercury Lounge. Overheard at the concert: “It’s easier for me to be a T.A. now that we live in a post truth society” Sidney Gish Seen at Elswehere, opened for Vundabar Snail Mail Seen at Madison Square Garden, opened for CSH and Interpol Sinkane Priests Lucy Dacus Upcoming concert March 20th squirrel flower Girlpool Illuminati Hotties Sharon Van Etten Why Bonnie Anna Burch Sports Boyfriend</summary></entry><entry><title type="html">Calling My Shot: 2019</title><link href="http://localhost:4000/music/calling-my-shot-2019/" rel="alternate" type="text/html" title="Calling My Shot: 2019" /><published>2019-02-10T00:00:00-05:00</published><updated>2019-02-10T00:00:00-05:00</updated><id>http://localhost:4000/music/calling-my-shot-2019</id><content type="html" xml:base="http://localhost:4000/music/calling-my-shot-2019/">&lt;p&gt;Bands I think are going to have a breakout year in 2019. May or may not revist this in 2020 depending on how accurate it is. I’m the judge of how accurate it is.&lt;/p&gt;
-
-&lt;h2 id=&quot;why-bonnie&quot;&gt;&lt;a href=&quot;https://whybonnie.bandcamp.com/&quot;&gt;Why Bonnie&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Why Bonnie describes themselves as “bedroom-pop that moved to the couch,” which is so stunningly accurate I’m not going to try to best it. Why Bonnie released two EPs in 2018, “In Water” and “Nightgown,” both on Sports Day Records, and hopefully are releasing a full-length album in 2019. Lead singer Blair Howerton started Why Bonnie, and her voice can blend into their sweeping lo-fi sound if you’re not careful. And you really should be, because her lyrics are are wistful but uplifting. I actually lucked out and got to see them in their hometown of Austin, TX, opening for Beach Fossils, and I was an immediate fan. It was one of those experiences where everybody stops mingling and starts listening. Their performance of “Stereo” can quiet a room. What was more impressive is that we were outside at Mohawk. (Side note: if you’re going to a concert in Austin in July, wear shorts.) Since then, they’ve toured with Snail Mail on her late 2018 headlining tour, and are now back in Austin, with some shows lined up in the area, but they have no tour dates scheduled at the moment. Hopefully that changes soon, because I’d love for them to come back to New York.&lt;/p&gt;
-
-&lt;p&gt;None of the band members are named Bonnie. Why they’re named Bonnie, the world may never know.&lt;/p&gt;
-
-&lt;p&gt;Favorite song: “Stereo”&lt;/p&gt;
-
-&lt;h2 id=&quot;barrie&quot;&gt;&lt;a href=&quot;https://barrie.bandcamp.com/&quot;&gt;Barrie&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Based out of Brooklyn, Barrie (the first name of lead singer/songwriter/co-producer/guitarist/synth/bassist Barrie Lindsay and also the name of the band) releases their first album, &lt;em&gt;Happy To Be Here&lt;/em&gt; on May 3rd, on Winspear. Their first EP, &lt;em&gt;Singles&lt;/em&gt; announced them as dream pop, synth-heavy, slow-moving, and easy to get lost in. “Clovers” is the first single released off of &lt;em&gt;Happy&lt;/em&gt; and and it’s already generating buzz, having been premiered on Apple Music, and featured on Tidal Rising (one of whose shows I got to see Barrie). “Clovers” has a more straigh-up pop sound, and when the guitar shows up in the chorus, it gives me a distinct Tame Impala vibe. I’m curious to see what the full album is going to sound like, but excited nonetheless.&lt;/p&gt;
-
-&lt;p&gt;You can catch Barrie on tour supporting Myia Folk this winter and spring, but I wouldn’t be shocked if they start their own headlining tour soon after.&lt;/p&gt;
-
-&lt;p&gt;Favorite song: “Tal Uno”&lt;/p&gt;
-
-&lt;h2 id=&quot;sports-boyfriend&quot;&gt;&lt;a href=&quot;https://sportsboyfriend.bandcamp.com/&quot;&gt;Sports Boyfriend&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;With three oficial singles released over the past three years, Sports Boyfriend might be the Venture Bros. of the Midwest DIY scene. Just like the Venture Bros, if Eileen Peltier’s songs take a while to be released, it’s only because they’re self-written, recorded, and produced to an exacting standard. With other recordings available on her &lt;a href=&quot;https://soundcloud.com/sports-boyfriend&quot;&gt;SoundCloud&lt;/a&gt;, Eileen’s sound becomes more and more defined, culminating in her recently released “Fear of God,” with chill baseline, backing guitar, clear vocals and extremely personal lyrics. With an upcoming EP promised via her Instagram, Sports Boyfriend might finally branch out of her mainly Chicago shows. She might not have a choice.&lt;/p&gt;
-
-&lt;p&gt;Favorite song: “I Only Leave My House to Dance With You”&lt;/p&gt;</content><author><name>Max Haubenstock</name></author><summary type="html">Bands I think are going to have a breakout year in 2019. May or may not revist this in 2020 depending on how accurate it is. I’m the judge of how accurate it is. Why Bonnie Why Bonnie describes themselves as “bedroom-pop that moved to the couch,” which is so stunningly accurate I’m not going to try to best it. Why Bonnie released two EPs in 2018, “In Water” and “Nightgown,” both on Sports Day Records, and hopefully are releasing a full-length album in 2019. Lead singer Blair Howerton started Why Bonnie, and her voice can blend into their sweeping lo-fi sound if you’re not careful. And you really should be, because her lyrics are are wistful but uplifting. I actually lucked out and got to see them in their hometown of Austin, TX, opening for Beach Fossils, and I was an immediate fan. It was one of those experiences where everybody stops mingling and starts listening. Their performance of “Stereo” can quiet a room. What was more impressive is that we were outside at Mohawk. (Side note: if you’re going to a concert in Austin in July, wear shorts.) Since then, they’ve toured with Snail Mail on her late 2018 headlining tour, and are now back in Austin, with some shows lined up in the area, but they have no tour dates scheduled at the moment. Hopefully that changes soon, because I’d love for them to come back to New York. None of the band members are named Bonnie. Why they’re named Bonnie, the world may never know. Favorite song: “Stereo” Barrie Based out of Brooklyn, Barrie (the first name of lead singer/songwriter/co-producer/guitarist/synth/bassist Barrie Lindsay and also the name of the band) releases their first album, Happy To Be Here on May 3rd, on Winspear. Their first EP, Singles announced them as dream pop, synth-heavy, slow-moving, and easy to get lost in. “Clovers” is the first single released off of Happy and and it’s already generating buzz, having been premiered on Apple Music, and featured on Tidal Rising (one of whose shows I got to see Barrie). “Clovers” has a more straigh-up pop sound, and when the guitar shows up in the chorus, it gives me a distinct Tame Impala vibe. I’m curious to see what the full album is going to sound like, but excited nonetheless. You can catch Barrie on tour supporting Myia Folk this winter and spring, but I wouldn’t be shocked if they start their own headlining tour soon after. Favorite song: “Tal Uno” Sports Boyfriend With three oficial singles released over the past three years, Sports Boyfriend might be the Venture Bros. of the Midwest DIY scene. Just like the Venture Bros, if Eileen Peltier’s songs take a while to be released, it’s only because they’re self-written, recorded, and produced to an exacting standard. With other recordings available on her SoundCloud, Eileen’s sound becomes more and more defined, culminating in her recently released “Fear of God,” with chill baseline, backing guitar, clear vocals and extremely personal lyrics. With an upcoming EP promised via her Instagram, Sports Boyfriend might finally branch out of her mainly Chicago shows. She might not have a choice. Favorite song: “I Only Leave My House to Dance With You”</summary></entry></feed>
+&lt;/ul&gt;</content><author><name>Max Haubenstock</name></author><summary type="html">In Last.fm scrobbling order (min: 3 scrobbles): Julia Jacklin (Crushing is still great) Shana Cleveland (Of La Luz) Remember Sports Ratboys Daisy the Great Better Oblivion Community Center Anna Burch (Quit the Curse is infinitely listenable) 1 Trait Danger (if you know, you know) Honeyblood Camp Cope</summary></entry></feed>
