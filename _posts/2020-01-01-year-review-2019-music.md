@@ -1,0 +1,112 @@
+---
+layout: post
+title: "2019 Year in Review"
+categories:
+    - Music
+excerpt_separator: <!--more-->
+---
+A good year. A bit suprised some artists didn't make the list, like Phoebe Bridgers, the Mountain Goats, Tennis, the Avalances, and others, but the data is the data. Can't argue with the data.
+Top 100, in Last.fm scrobbling order:
+
+
+- Lucy Dacus
+- Car Seat Headrest
+- Julia Jacklin
+- Remember Sports
+- Lomelda
+- Sidney Gish
+- Fay Webster
+- Black Belt Eagle Scout
+- Stef Chura
+- Illuminati Hotties
+<!--more-->
+- Hinds
+- Stella Donnelly
+- Anna Burch
+- Jay Som
+- Courtney Barnett
+- Snail Mail
+- Ratboys
+- The Beths
+- Vundabar
+- Frankie Cosmos
+- Lala Lala
+- Palehound
+- Girpool
+- Better Oblivion Community Center
+- Haley Heynderickx
+- Cherry Glazerr
+- Fred Thomas
+- Soccer Mommy
+- Shana Cleveland
+- Bad Bad Hats
+- Sir Babygirl
+- Adult Mom
+- Vulfpeck
+- Petite League
+- Julien Baker
+- Sasami
+- U.S. Girls
+- Honeyblood
+- Daisy the Great
+- Vampire Weekend
+- Boytoy
+- Molly Burch
+- Pom Pom Squad
+- Sports Boyfriend
+- Japanese Breakfast
+- Priests
+- Sinkane
+- Mannequin Pussy
+- Let's Eat Grandma
+- Big Theif
+- Diet Cig
+- Slothrust
+- Dehd
+- Hand Habits
+- Dan Soder (comedian)
+- Mustard Service
+- Saintseneca
+- Forth Wanderers
+- Eddie Izzard (comedian)
+- Why Bonnie
+- 1 Trait Danger
+- Squirrel Flower
+- Marina Franklin (comedian)
+- Hop Along
+- Amber Arcades
+- Miya Folick
+- TV Girl
+- Charly Bliss
+- La Luz
+- Mitski
+- Rosie Tucker
+- Speedy Ortiz
+- Belle-Skinner
+- Camp Cope
+- Rolling Blackouts Coastal Fever
+- Hovvdy
+- Ian Sweet
+- Kississippi
+- Parquet Courts
+- Sharon Van Etten
+- Chastity Belt
+- Lunar Vacation
+- Real Estate
+- Daddy Issues
+- Kurt Vile
+- Pinc Louds
+- Amy O
+- Anthony Jeselnik (comedian)
+- Free Cake For Every Creature (rip)
+- Katie Von Schliecher
+- Sloppy Jane
+- Angel Olsen
+- Barrie
+- Colatura
+- Boy Scouts
+- Camino 84
+- Lexie
+- Sleater-Kinney
+- Tizrah
+- Weyes Blood
