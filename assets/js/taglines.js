@@ -54,7 +54,7 @@ const subtitles = [
     s('2020-02-25', f, 'You gonna eat all that?'),
     s('2020-02-24', f, 'Four cylinders but I know how to use them'),
     s('2020-02-23', f, 'Drop the taco, get in the car'),
-    s('2020-02-22', f, 'Bark bark bark (translated: dog wants food)',
+    s('2020-02-22', f, 'Bark bark bark (translated: dog wants food)'),
     s('2020-02-21', t, 'Feels like this is when we started talking about it'),
     s('2020-02-20', f, '*Jim stares at camera*'),
     s('2020-02-19', f, 'Funding provided by'), 
@@ -445,5 +445,5 @@ const subtitles = [
     {date: '2019-01-30', timeSensitive: f, tag: 'A chicken in every pot, and a new tagline every day.'},
     {date: '2019-01-29', timeSensitive: f, tag: 'Now with less functionality'},
     {date: '2019-01-28', timeSensitive: f, tag: 'Only twelve years too late'},
-    {date: '2019-01-27', timeSensitive: f, tag: 'Doing this on the cheap'}
-]
+    {date: '2019-01-27', timeSensitive: f, tag: 'Doing this on the cheap'},
+];
