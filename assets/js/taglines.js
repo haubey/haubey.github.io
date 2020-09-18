@@ -76,7 +76,7 @@ const subtitles = [
     s('2020-02-03', f, '*Insert tagline here*'),
     s('2020-02-02', f, 'Haubey say relax'),
     s('2020-02-01', f, 'Hacker Fake News'),
-    s('2020-01-31', f, 'Conan O\'Barbarian),
+    s('2020-01-31', f, 'Conan O\'Barbarian'),
     s('2020-01-30', f, 'It is in fact not peanut butter jelly time'),
     s('2020-01-28', f, 'Made with indifference'),
     s('2020-01-27', f, 'It\'s really coming down out there'),
