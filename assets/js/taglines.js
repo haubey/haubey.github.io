@@ -17,7 +17,7 @@ const subtitles = [
     s('2020-05-08', f, 'It\'s hot in Topeka (Boca Raton)'),
     s('2020-05-07', f, 'A collection of mundanities'),
     s('2020-05-06', f, '<a href="https://www.youtube.com/watch?v=d1EnW4kn1kg" target="_blank">dunanunanunanunan dunnnnnnnn naaaan nuuunnn naaannnn</a>'),
-    s('2020-05-05', f, 'Hi everybody I\'m Gus Johnson and <a href="https://web.archive.org/web/20110203164351/http://www.gusjohnsongetsbuckets.com/" target="_blank">I get buckets'),</a>
+    s('2020-05-05', f, 'Hi everybody I\'m Gus Johnson and <a href="https://web.archive.org/web/20110203164351/http://www.gusjohnsongetsbuckets.com/" target="_blank">I get buckets</a>'),
     s('2020-05-04', f, 'Stack Overflow but it\'s for for underflows'),
     s('2020-05-03', f, 'Baseball but it\'s all bunts'),
     s('2020-05-02', f, 'Brought to you by spaghetti javascript'),
