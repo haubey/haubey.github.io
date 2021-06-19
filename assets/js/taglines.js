@@ -6,6 +6,7 @@ const t = true;
 const f = false;
 
 const subtitles = [
+    s('2021-06-19', t, 'Hey that\'s new'),
     s('2020-05-15', f, 'PJs for days'),
     s('2020-05-14', t, 'I appologize for cursing'),
     s('2020-05-13', f, 'Turner Classic Movies is the shit'),
