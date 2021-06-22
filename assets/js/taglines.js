@@ -10,6 +10,8 @@ const t = true;
 const f = false;
 
 const subtitles = [
+    z('2021-06-22', 'List out at 7, mic starts at 11:45'),
+    z('2021-06-21', 'Open Mic Night: 6th Monday of Every Month'),
     z('2021-06-20', `Turns out professional sports players aren't epidemiologists. Who knew?`),
     s('2021-06-19', f, 'Hey that\'s new'),
     s('2021-06-18', f, 'Barkov. Selke. Count it.'),
