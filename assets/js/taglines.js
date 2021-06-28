@@ -10,6 +10,11 @@ const t = true;
 const f = false;
 
 const subtitles = [
+    z('2021-06-28', `If you're a recruiter, mention seeing this`),
+    z('2021-06-27', 'Bruh'),
+    z('2021-06-26', `Grammar are hard`),
+    z('2021-06-25', `Spelling is eazy`),
+    z('2021-06-24', `Do you know how hard it is coming up with one tagline a day all summer?`),
     z('2021-06-23', `Hey you didn't answer my text`),
     z('2021-06-22', 'List out at 7, mic starts at 11:45'),
     z('2021-06-21', 'Open Mic Night: 6th Monday of Every Month'),
