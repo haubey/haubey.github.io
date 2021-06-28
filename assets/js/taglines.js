@@ -10,6 +10,7 @@ const t = true;
 const f = false;
 
 const subtitles = [
+    z('2021-06-29', `So it turns out my music taste is insular`),
     z('2021-06-28', `If you're a recruiter, mention seeing this`),
     z('2021-06-27', 'Bruh'),
     z('2021-06-26', `Grammar are hard`),
