@@ -12,7 +12,7 @@ Questions about this page, or want to add or change something? Read [this](#rule
 
 * [Riverside Marketplace](https://g.page/RiversidePlantation?share)
 
-   Last Monday of the month, no mic just a showcase  
+   Last Monday of the month, showcase before mic
    All arts mic  
    List at 6:45, show at 7:30
 
@@ -46,14 +46,30 @@ Questions about this page, or want to add or change something? Read [this](#rule
 
    List at 8:30, show at 9
 
-*
+* [Gatsby's Joint](https://g.page/gatsbysjoint?share)
+
+   Show at 8, then mic  
+   Contact [Nileja](https://www.instagram.com/nilejacomedian/)
 
 ### Thursdays
 * [Black Flamingo](https://g.page/BlackFlamingoBrewingCompany?share)
 
    List at 7:30, show at 8:30
 
+* [Next Door at C&I Studios](https://g.page/nextdoorci?share)
+
+   All arts mic  
+   List at 7, show at 8
+
+* [Kelly Brothers](https://g.page/kelly-brothers-irish-pub-fl?share)
+
+  Showcase at 8, then all arts mic  
+  For a spot, contant [Sean Mullins](https://www.instagram.com/seantmullins/)
+
 ### Fridays
+* [Lucky's Tavern](https://g.page/luckystavern?share)
+
+   List at 7, show at 8
 
 ### Saturdays
 * [Fox and Hounds](https://goo.gl/maps/LYnSiCkQ96b1K39r6)
