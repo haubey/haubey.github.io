@@ -75,6 +75,13 @@ Questions about this page, or want to add or change something? Read [this](#rule
 
    List at 7, show at 8
 
+
+* [Kelly Brothers](https://g.page/kelly-brothers-irish-pub-fl?share){:target="_blank"}
+
+   Second Friday of every month  
+   All arts mic  
+   List at 9, show at 10
+
 ### Saturdays
 * [Fox and Hounds](https://goo.gl/maps/LYnSiCkQ96b1K39r6){:target="_blank"}
 
