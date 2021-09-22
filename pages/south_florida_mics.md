@@ -53,8 +53,7 @@ Questions about this page, or want to add or change something? Read [this](#rule
 
 * [Gatsby's Joint](https://g.page/gatsbysjoint?share){:target="_blank"}
 
-   Show at 8, then mic  
-   Contact [Nileja](https://www.instagram.com/nilejacomedian/){:target="_blank"}
+   List at 7:30, show at 8, then mic
 
 ### Thursdays
 * [Black Flamingo](https://g.page/BlackFlamingoBrewingCompany?share){:target="_blank"}
