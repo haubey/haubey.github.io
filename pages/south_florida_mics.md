@@ -46,6 +46,10 @@ Questions about this page, or want to add or change something? Read [this](#rule
 
    List at 8:30, show at 9
 
+* [Duke's Tacos and Margs](https://goo.gl/maps/xHvDgy38rN7bKjqC7){:target="_blank"}
+
+   List at 6:30, show at 7
+
 * [Gatsby's Joint](https://g.page/gatsbysjoint?share)
 
    Show at 8, then mic  
