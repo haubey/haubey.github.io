@@ -12,7 +12,8 @@ Questions about this page, or want to add or change something? Read [this](#rule
 
 * [Riverside Marketplace](https://g.page/RiversidePlantation?share){:target="_blank"}
 
-   Last Monday of the month, showcase before mic
+   Every week  
+   Last Monday of the month, showcase before mic  
    All arts mic  
    List at 6:45, show at 7:30
 
@@ -25,7 +26,7 @@ Questions about this page, or want to add or change something? Read [this](#rule
 * [Arts Garage](https://goo.gl/maps/ezaCaRiHiBXRZSfJ9){:target="_blank"}
 
    First Tuesday of every month, comedy only mic  
-   List at 7, show at 8. Message [Mariza Brussolo](https://www.instagram.com/marizabrussolo/){:target="_blank"}
+   List at 7, show at 8. Contact [Mariza Brussolo](https://www.instagram.com/marizabrussolo/){:target="_blank"}
 
    Second Tuesday of every month, all arts mic  
    List at 7, show at 8
@@ -68,7 +69,7 @@ Questions about this page, or want to add or change something? Read [this](#rule
 * [Kelly Brothers](https://g.page/kelly-brothers-irish-pub-fl?share){:target="_blank"}
 
   Showcase at 8, then all arts mic  
-  For a spot, contant [Sean Mullins](https://www.instagram.com/seantmullins/){:target="_blank"}
+  For a spot, contact [Sean Mullins](https://www.instagram.com/seantmullins/){:target="_blank"}
 
 ### Fridays
 * [Lucky's Tavern](https://g.page/luckystavern?share){:target="_blank"}
