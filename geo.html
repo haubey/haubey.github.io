@@ -9,8 +9,9 @@
                     // {session: {sessionID: string, username: string, database: string}, server: string}
                     console.log(`add-in has launched for the first time at ${new Date().toISOString()}`)
                     console.log("API", api);
-                    const resp = api.getSession();
-                    console.log("RESP", resp);
+                    const resp = api.getSession((session, server) => {
+                        console.log("HELLO" session, server);
+                    });
                     //resp.session.sessionID, resp.server
                     
                     // const originalXHRopen = XMLHttpRequest.prototype.open;
