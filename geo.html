@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script>
+        geotab.addin.atob_addin = () => {
+            return {
+                initialize(api, state, callback) {
+                    console.log(`add-in has launched for the first time at ${new Date().toISOString()}`)
+                    const originalXHRopen = XMLHttpRequest.prototype.open;
+                    const originalXHRsend = XMLHttpRequest.prototype.send;
+
+                    XMLHttpRequest.prototype.open = function (method, url, async, user, password) {
+                        // You can add logic here before the XHR is opened
+                        console.log(`XHR Open: Method=${method}, URL=${url}`);
+                        this._method = method; // Store method and URL for later use
+                        this._url = url;
+                        originalXHRopen.apply(this, arguments);
+                    };
+
+                    XMLHttpRequest.prototype.send = function (data) {
+                        // You can add logic here before the XHR is sent
+                        console.log(`XHR Send: Method=${this._method}, URL=${this._url}, Data=${data}`);
+
+                        // Add event listeners for various XHR events
+                        this.addEventListener('loadstart', () => {
+                            console.log(`XHR LoadStart: ${this._url}`);
+                        });
+                        this.addEventListener('progress', (event) => {
+                            if (event.lengthComputable) {
+                                console.log(`XHR Progress: ${this._url} - ${event.loaded} of ${event.total} bytes`);
+                            } else {
+                                console.log(`XHR Progress: ${this._url} - ${event.loaded} bytes`);
+                            }
+                        });
+                        this.addEventListener('load', () => {
+                            console.log(`XHR Load: ${this._url} - Status: ${this.status}`);
+                            // Access response data here: this.responseText or this.response
+                        });
+                        this.addEventListener('error', () => {
+                            console.log(`XHR Error: ${this._url}`);
+                        });
+                        this.addEventListener('abort', () => {
+                            console.log(`XHR Abort: ${this._url}`);
+                        });
+                        this.addEventListener('timeout', () => {
+                            console.log(`XHR Timeout: ${this._url}`);
+                        });
+                        this.addEventListener('loadend', () => {
+                            console.log(`XHR LoadEnd: ${this._url}`);
+                        });
+
+                        originalXHRsend.apply(this, arguments);
+                    };
+                    callback();
+                },
+                focus(api, state) {
+                    document.querySelector('#addUserBtn').addEventListener('click', function () {
+                        console.log('button click')
+                        api.call('Add', {
+                            typeName: 'User',
+                            entity:
+                            {
+                                "userAuthenticationType": "ServiceAccount",
+                                "name": "company@ddressofserviceAccount",
+                                "firstName": "serviceAccount",
+                                "lastName": "companyName",
+                                "password": "<SecurePassword>",
+                                "securityGroups": [
+                                    {
+                                        "id": "GroupViewOnlySecurityId"
+                                    }
+                                ],
+                                "changePassword": false,
+                                "companyGroups": [
+                                    {
+                                        "id": "GroupCompanyId"
+                                    }
+                                ]
+                            }
+
+                        }).then(result => {
+                            console.log(`successfully created user: ${JSON.stringify(result)}`)
+                        })
+                    })
+
+                },
+                blur(api, state) {
+                    console.log('User has navigated away from the add-in')
+                }
+            };
+        };
+    </script>
+</head>
+
+<body>
+    <div style="display: flex; flex-direction: column; width: 100%; height: 100%;">
+        <h1>This is a test add-in to demonstrate adding user account to mygeotab from an add-in</h1>
+        <button id="addUserBtn">
+            Add User
+        </button>
+    </div>
+</body>
+
+</html>
