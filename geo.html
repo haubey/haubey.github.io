@@ -7,8 +7,9 @@
             return {
                 initialize(api, state, callback) {
                     // {session: {sessionID: string, username: string, database: string}, server: string}
+                    console.log("API", api);
                     const resp = api.getSession();
-                    console.log(resp);
+                    console.log("RESP", resp);
                     //resp.session.sessionID, resp.server
                     console.log(`add-in has launched for the first time at ${new Date().toISOString()}`)
                     const originalXHRopen = XMLHttpRequest.prototype.open;
