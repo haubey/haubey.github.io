@@ -7,56 +7,57 @@
             return {
                 initialize(api, state, callback) {
                     // {session: {sessionID: string, username: string, database: string}, server: string}
+                    console.log(`add-in has launched for the first time at ${new Date().toISOString()}`)
                     console.log("API", api);
                     const resp = api.getSession();
                     console.log("RESP", resp);
                     //resp.session.sessionID, resp.server
-                    console.log(`add-in has launched for the first time at ${new Date().toISOString()}`)
-                    const originalXHRopen = XMLHttpRequest.prototype.open;
-                    const originalXHRsend = XMLHttpRequest.prototype.send;
+                    
+                    // const originalXHRopen = XMLHttpRequest.prototype.open;
+                    // const originalXHRsend = XMLHttpRequest.prototype.send;?
 
-                    XMLHttpRequest.prototype.open = function (method, url, async, user, password) {
-                        // You can add logic here before the XHR is opened
-                        console.log(`XHR Open: Method=${method}, URL=${url}`);
-                        this._method = method; // Store method and URL for later use
-                        this._url = url;
-                        originalXHRopen.apply(this, arguments);
-                    };
+                    // XMLHttpRequest.prototype.open = function (method, url, async, user, password) {
+                    //     // You can add logic here before the XHR is opened
+                    //     console.log(`XHR Open: Method=${method}, URL=${url}`);
+                    //     this._method = method; // Store method and URL for later use
+                    //     this._url = url;
+                    //     originalXHRopen.apply(this, arguments);
+                    // };
 
-                    XMLHttpRequest.prototype.send = function (data) {
-                        // You can add logic here before the XHR is sent
-                        console.log(`XHR Send: Method=${this._method}, URL=${this._url}, Data=${data}`);
+                    // XMLHttpRequest.prototype.send = function (data) {
+                    //     // You can add logic here before the XHR is sent
+                    //     console.log(`XHR Send: Method=${this._method}, URL=${this._url}, Data=${data}`);
 
-                        // Add event listeners for various XHR events
-                        this.addEventListener('loadstart', () => {
-                            console.log(`XHR LoadStart: ${this._url}`);
-                        });
-                        this.addEventListener('progress', (event) => {
-                            if (event.lengthComputable) {
-                                console.log(`XHR Progress: ${this._url} - ${event.loaded} of ${event.total} bytes`);
-                            } else {
-                                console.log(`XHR Progress: ${this._url} - ${event.loaded} bytes`);
-                            }
-                        });
-                        this.addEventListener('load', () => {
-                            console.log(`XHR Load: ${this._url} - Status: ${this.status}`);
-                            // Access response data here: this.responseText or this.response
-                        });
-                        this.addEventListener('error', () => {
-                            console.log(`XHR Error: ${this._url}`);
-                        });
-                        this.addEventListener('abort', () => {
-                            console.log(`XHR Abort: ${this._url}`);
-                        });
-                        this.addEventListener('timeout', () => {
-                            console.log(`XHR Timeout: ${this._url}`);
-                        });
-                        this.addEventListener('loadend', () => {
-                            console.log(`XHR LoadEnd: ${this._url}`);
-                        });
+                    //     // Add event listeners for various XHR events
+                    //     this.addEventListener('loadstart', () => {
+                    //         console.log(`XHR LoadStart: ${this._url}`);
+                    //     });
+                    //     this.addEventListener('progress', (event) => {
+                    //         if (event.lengthComputable) {
+                    //             console.log(`XHR Progress: ${this._url} - ${event.loaded} of ${event.total} bytes`);
+                    //         } else {
+                    //             console.log(`XHR Progress: ${this._url} - ${event.loaded} bytes`);
+                    //         }
+                    //     });
+                    //     this.addEventListener('load', () => {
+                    //         console.log(`XHR Load: ${this._url} - Status: ${this.status}`);
+                    //         // Access response data here: this.responseText or this.response
+                    //     });
+                    //     this.addEventListener('error', () => {
+                    //         console.log(`XHR Error: ${this._url}`);
+                    //     });
+                    //     this.addEventListener('abort', () => {
+                    //         console.log(`XHR Abort: ${this._url}`);
+                    //     });
+                    //     this.addEventListener('timeout', () => {
+                    //         console.log(`XHR Timeout: ${this._url}`);
+                    //     });
+                    //     this.addEventListener('loadend', () => {
+                    //         console.log(`XHR LoadEnd: ${this._url}`);
+                    //     });
 
-                        originalXHRsend.apply(this, arguments);
-                    };
+                    //     originalXHRsend.apply(this, arguments);
+                    // };
                     callback();
                 },
                 focus(api, state) {
