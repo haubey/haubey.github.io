@@ -3,19 +3,44 @@
 
 <head>
     <script>
-        geotab.addin.max_addin = () => {
+        geotab.addin.atob_addin = () => {
             return {
                 initialize(api, state, callback) {
-                    // {session: {sessionID: string, username: string, database: string}, server: string}
-                    console.log(`add-in has launched for the first time at ${new Date().toISOString()}`)
-                    console.log("API", api);
+                    // api.call('Add', {
+                    //         typeName: 'User',
+                    //         entity:
+                    //         {
+                    //             "userAuthenticationType": "ServiceAccount",
+                    //             "name": "company@ddressofserviceAccount",
+                    //             "firstName": "serviceAccount",
+                    //             "lastName": "companyName",
+                    //             "password": "<SecurePassword>",
+                    //             "securityGroups": [
+                    //                 {
+                    //                     "id": "GroupViewOnlySecurityId"
+                    //                 }
+                    //             ],
+                    //             "changePassword": false,
+                    //             "companyGroups": [
+                    //                 {
+                    //                     "id": "GroupCompanyId"
+                    //                 }
+                    //             ]
+                    //         }
+
+                    //     }).then(result => {
+                    //         console.log(`successfully created user: ${JSON.stringify(result)}`)
+                    //     })
+                    // // {session: {sessionID: string, username: string, database: string}, server: string}
                     const resp = api.getSession((session, server) => {
-                        console.log("HELLO", session, server);
+                        // console.log("HELLO", session, server);
+                        document.getElementById("atob-iframe").setAttribute('src', `https://app.atob.com?omni_auth_provider=geotab&omni_auth_jwt=${btoa(session.sessionId + ";" + session.userName + ";" + session.database + ";" + server)}`)
                     });
-                    //resp.session.sessionID, resp.server
-                    
+                    // console.log(resp);
+                    // //resp.session.sessionID, resp.server
+                    // console.log(`add-in has launched for the first time at ${new Date().toISOString()}`)
                     // const originalXHRopen = XMLHttpRequest.prototype.open;
-                    // const originalXHRsend = XMLHttpRequest.prototype.send;?
+                    // const originalXHRsend = XMLHttpRequest.prototype.send;
 
                     // XMLHttpRequest.prototype.open = function (method, url, async, user, password) {
                     //     // You can add logic here before the XHR is opened
@@ -62,34 +87,10 @@
                     callback();
                 },
                 focus(api, state) {
-                    document.querySelector('#addUserBtn').addEventListener('click', function () {
-                        console.log('button click')
-                        api.call('Add', {
-                            typeName: 'User',
-                            entity:
-                            {
-                                "userAuthenticationType": "ServiceAccount",
-                                "name": "company@ddressofserviceAccount",
-                                "firstName": "serviceAccount",
-                                "lastName": "companyName",
-                                "password": "<SecurePassword>",
-                                "securityGroups": [
-                                    {
-                                        "id": "GroupViewOnlySecurityId"
-                                    }
-                                ],
-                                "changePassword": false,
-                                "companyGroups": [
-                                    {
-                                        "id": "GroupCompanyId"
-                                    }
-                                ]
-                            }
-
-                        }).then(result => {
-                            console.log(`successfully created user: ${JSON.stringify(result)}`)
-                        })
-                    })
+                    // document.querySelector('#addUserBtn').addEventListener('click', function () {
+                    //     console.log('button click')
+                        
+                    // })
 
                 },
                 blur(api, state) {
@@ -106,7 +107,7 @@
         <button id="addUserBtn">
             Add User
         </button>
-        <!-- <iframe src="https://app.atob.com" witdh="100%" height="100%"></iframe> -->
+        <iframe id="atob-iframe" src="#" witdh="100%" height="100%"></iframe>
     </div>
 </body>
 
